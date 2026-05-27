@@ -83,8 +83,9 @@
 |----|-------------|-------------|
 | ![](https://img.shields.io/badge/UNLOCKED-e94560?style=flat-square) | **🎮 Unity Warrior** | Built multiple complete games in Unity |
 | ![](https://img.shields.io/badge/UNLOCKED-e94560?style=flat-square) | **🧊 Blender Artisan** | Crafted 3D models & assets for games |
-| ![](https://img.shields.io/badge/UNLOCKED-e94560?style=flat-square) | **🎯 Reflex Coder** | Shipped a reaction-based game mechanic |
-| ![](https://img.shields.io/badge/UNLOCKED-e94560?style=flat-square) | **🌍 World Builder** | Designed 2D platformer levels & physics |
+| ![](https://img.shields.io/badge/UNLOCKED-e94560?style=flat-square) | **🎯 Reflex Coder** | Shipped a reaction-based color switching mechanic |
+| ![](https://img.shields.io/badge/UNLOCKED-e94560?style=flat-square) | **🌍 World Builder** | Designed multi-level 2D platformer with scene management |
+| ![](https://img.shields.io/badge/UNLOCKED-e94560?style=flat-square) | **🔵 Physics Master** | Built physics-driven 3D ball roller with obstacle navigation |
 | ![](https://img.shields.io/badge/IN+PROGRESS-a8dadc?style=flat-square) | **🚀 Indie Launcher** | Ship a full release to the public |
 
 </div>
@@ -93,13 +94,55 @@
 
 ## 📜 ACTIVE QUESTS — Featured Projects
 
-<div align="center">
-
-[![Color Reflex](https://github-readme-stats.vercel.app/api/pin/?username=abinshasbi-netizen&repo=unity-color-reflex-game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/abinshasbi-netizen/unity-color-reflex-game)
-[![2D Platformer](https://github-readme-stats.vercel.app/api/pin/?username=abinshasbi-netizen&repo=unity-2d-platformer-game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/abinshasbi-netizen/unity-2d-platformer-game)
-[![Ball Roller](https://github-readme-stats.vercel.app/api/pin/?username=abinshasbi-netizen&repo=unity-ball-roller-game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&icon_color=a8dadc)](https://github.com/abinshasbi-netizen/unity-ball-roller-game)
-
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🔴 COLOR REFLEX</h3>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETE-e94560?style=flat-square" />
+      <img src="https://img.shields.io/badge/ENGINE-Unity_2D-000000?style=flat-square&logo=unity" />
+      <br/><br/>
+      <p>A fast-paced color-switching game with particle collection mechanics, object pooling, animations, and mobile-focused gameplay systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/2D-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Mobile-orange?style=flat-square" />
+      </p>
+      <a href="https://github.com/abinshasbi-netizen/unity-color-reflex-game">
+        <img src="https://img.shields.io/badge/▶%20VIEW%20QUEST-e94560?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🟢 2D PLATFORMER</h3>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETE-e94560?style=flat-square" />
+      <img src="https://img.shields.io/badge/ENGINE-Unity_2D-000000?style=flat-square&logo=unity" />
+      <br/><br/>
+      <p>A 2D platformer with double jump mechanics, collectible-based progression, hazards, multi-level gameplay and scene management built in C# and Unity.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tilemap-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Indie-a8dadc?style=flat-square" />
+      </p>
+      <a href="https://github.com/abinshasbi-netizen/unity-2d-platformer-game">
+        <img src="https://img.shields.io/badge/▶%20VIEW%20QUEST-e94560?style=for-the-badge" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔵 BALL ROLLER</h3>
+      <img src="https://img.shields.io/badge/STATUS-COMPLETE-e94560?style=flat-square" />
+      <img src="https://img.shields.io/badge/ENGINE-Unity_3D-000000?style=flat-square&logo=unity" />
+      <br/><br/>
+      <p>A Unity-based 3D ball rolling game featuring physics-driven movement, obstacle navigation, and progressively evolving gameplay mechanics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Physics-f4a261?style=flat-square" />
+        <img src="https://img.shields.io/badge/3D-e94560?style=flat-square" />
+      </p>
+      <a href="https://github.com/abinshasbi-netizen/unity-ball-roller-game">
+        <img src="https://img.shields.io/badge/▶%20VIEW%20QUEST-e94560?style=for-the-badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
